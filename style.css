@@ -114,3 +114,21 @@ button:hover {
 button:active {
   transform: scale(0.98);
 }
+
+.cache {
+  display: none;
+}
+
+#resultat {
+  text-align: center;
+}
+
+#resultat h2 {
+  margin-bottom: 1rem;
+}
+
+#message {
+  margin-bottom: 1.5rem;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
